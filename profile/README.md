@@ -1,6 +1,6 @@
 # 🛡️ Overwatch for Windows — Offline Setup Assistant
 
-![Overwatch Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jT7OAEv3OWI35C4M4bfvTGspX5Irh9bRiQ&s)  
+![Overwatch Banner](https://static1.srcdn.com/wordpress/wp-content/uploads/2024/11/characters-from-overwatch-2.jpg)  
 *Offline sandbox client for hero testing and map exploration*
 
 🔥 Overwatch PC Offline Edition — legendary team-based shooter now accessible without Battle.net or online login. Train, test, and explore freely.
